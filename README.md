@@ -1,4 +1,6 @@
-COMO RENOVAR REBOBINIGHTS?
+2o Projeto do Bootcamp de Analise de Dados da Ironhack
+
+Pergunta // COMO RENOVAR REBOBINIGHTS?
 
 Rebobinights é uma festa onde eu trabalho como drag e DJ residente desde 2015. Como a festa tem o briefing de musicas das decadas 90 e 00, o playlist corre o risco de se repetir e se estagnar ao longo do tempo. A festa já tem algumas divas do pop associadas com a discografia da festa então queria usar meu projeto para ver se conseguirir desenterrar hits subestimados na discografia de alguma dessas divas para refrescar o playlist da festa. 
 
